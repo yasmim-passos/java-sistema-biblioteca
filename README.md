@@ -16,5 +16,6 @@ persistência em arquivo e interação via terminal.
 
 ## ▶️ Como executar
 ```bash
-javac src/*.java
-java -cp src Main
+javac src/principal/*.java
+java -cp src principal.Main
+
